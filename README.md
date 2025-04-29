@@ -10,7 +10,7 @@ I specialize in developing scalable systems for games and simulations, optimizin
 ## Professional Projects
 
 ### [Royal Match – Dream Games](https://apps.apple.com/us/app/royal-match/id1482155847)
-- Senior Software Engineer on a top-10 grossing mobile puzzle game.
+- First engineering hire at Dream Games, contributing to the early development of Royal Match, a top-10 grossing mobile puzzle game.
 - Contributed to core gameplay systems, performance optimization, CI/CD pipeline development, and internal analytics tooling.
 - Reduced match algorithm runtime from 10ms to under 1ms and eliminated garbage collection in critical loops.
 
