@@ -1,7 +1,7 @@
 # Firat Ozbay
 
 ## About Me
-Results-driven Senior Software Engineer, Technical Lead, and Game Developer with 7+ years of experience building high-quality games and VR simulations. Skilled in Unity, C#, graphics programming, and VR development. Proven success working in cross-functional Agile teams, startup environments, and diverse international settings across Turkey, Sweden, the USA, and Japan.
+Senior Software Engineer, Technical Lead, and Game Developer with 7+ years of experience building high-quality games and VR simulations. Skilled in Unity, C#, graphics programming, and VR development. Proven success working in cross-functional Agile teams, startup environments, and diverse international settings across Turkey, Sweden, the USA, and Japan.
 
 I specialize in developing scalable systems for games and simulations, optimizing performance, and leading technical teams to deliver impactful projects.
 
