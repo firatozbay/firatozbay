@@ -56,5 +56,4 @@ I specialize in developing scalable systems for games and simulations, optimizin
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/firatozbay)
-- [GitHub](https://github.com/firatozbay)
 - [itch.io](https://euphrates.itch.io)
