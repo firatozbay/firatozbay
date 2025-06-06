@@ -46,7 +46,7 @@ I specialize in developing scalable systems for games and simulations, optimizin
 
 ## Skills
 
-**Programming:** C#, C++, C  
+**Programming:** C#, C++, C, Java, Javascript  
 **Game Development:** Unity, OpenGL, DirectX  
 **Software Engineering:** SOLID Principles, Clean Code, Refactoring, Unit Testing, Design Patterns, CI/CD, Git, Agile (Kanban/Scrum)  
 **Design Tools:** Blender, GIMP, Inkscape, Adobe After Effects  
